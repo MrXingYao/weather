@@ -90,7 +90,7 @@
                         <a class="btn btn-navbar btn-navbar_" data-toggle="collapse" data-target=".nav-collapse_">Menu <span class="icon-bar"></span> </a>
                         <div class="nav-collapse nav-collapse_  collapse">
                             <ul class="nav sf-menu">
-                                <li><a href="404error.jsp" onclick="ale()">用户管理</a></li>
+                                <li><a href="" onclick="ale()">用户管理</a></li>
                                 <li><a href="UserWeatherModify.jsp">历史数据</a></li>
                                 <li><a href="UserHadoop.jsp">数据分析</a></li>
                                 <li class="sub-menu"><a >文件交换</a>

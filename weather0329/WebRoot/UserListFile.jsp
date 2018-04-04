@@ -105,7 +105,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                                         <li><a href="../UserProcess3.jsp">可读文档</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="../UserMessboard.jsp">意见反馈</a></li>
+                                <li><a href="../UserMessageboard.jsp">意见反馈</a></li>
                                 <%String name=(String)session.getAttribute("name"); %>
                                 <li><p3>欢迎，<%=name%></p3><button onclick="window.location.href='Logout.jsp'">退出</button> </li>
                             </ul>
